@@ -1,0 +1,32 @@
+{
+    "PIL": {
+        "version": "5.1.0"
+    },
+    "Python": {
+        "version": [
+            3,
+            5,
+            2,
+            "final",
+            0
+        ]
+    },
+    "imageio": {
+        "version": "2.3.0"
+    },
+    "json": {
+        "version": "2.0.9"
+    },
+    "matplotlib": {
+        "version": "2.2.2"
+    },
+    "numpy": {
+        "version": "1.13.1"
+    },
+    "scipy": {
+        "version": "0.19.1"
+    },
+    "skimage": {
+        "version": "0.14.0"
+    }
+}
